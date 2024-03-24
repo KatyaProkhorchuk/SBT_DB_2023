@@ -59,4 +59,4 @@
 
    ![Без имени](https://github.com/KatyaProkhorchuk/SBT_DB_2023/assets/77965300/7ed6a3d5-4431-4599-9a05-f71181fa6bbf)
 
-
+   Самыми медленными оказались List и Set
