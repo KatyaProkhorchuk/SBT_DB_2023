@@ -51,3 +51,12 @@
 
 
    ![изображение](https://github.com/KatyaProkhorchuk/SBT_DB_2023/assets/77965300/61df9f77-dfc8-4eb0-a0ad-cb5e3f548789)
+
+   Сравним графики
+
+  ![Без имени-1](https://github.com/KatyaProkhorchuk/SBT_DB_2023/assets/77965300/9c6c2876-54e5-428f-a85e-bd6aa1bd9ff1)
+
+
+   ![Без имени](https://github.com/KatyaProkhorchuk/SBT_DB_2023/assets/77965300/7ed6a3d5-4431-4599-9a05-f71181fa6bbf)
+
+
