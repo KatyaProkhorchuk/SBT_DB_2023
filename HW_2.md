@@ -37,7 +37,7 @@
   Хэш занимает мало места и за счет этого можно сохранить большее кол-во объектов
 
 
-![изображение](https://github.com/KatyaProkhorchuk/SBT_DB_2023/assets/77965300/3de17aa9-ac6c-4fe1-80fa-189c986edd6c)
+   ![изображение](https://github.com/KatyaProkhorchuk/SBT_DB_2023/assets/77965300/3de17aa9-ac6c-4fe1-80fa-189c986edd6c)
 
 
   Сортированные наборы Redis - это, как и наборы Redis, неповторяющиеся коллекции строк. Разница в том, что каждый член сортированного набора ассоциируется с оценкой, которая используется для упорядочивания сортированного набора от наименьшей до наибольшей оценки. В то время как члены уникальны, оценки могут повторяться. Доступ к середине сортированного множества также осуществляется очень быстро
@@ -54,7 +54,7 @@
 
    Сравним графики (графики строила в колабе https://colab.research.google.com/drive/1E6mkDPn7l25cQDZy3JW7goCktz0Z7LpZ?usp=sharing )
 
-  ![Без имени-1](https://github.com/KatyaProkhorchuk/SBT_DB_2023/assets/77965300/9c6c2876-54e5-428f-a85e-bd6aa1bd9ff1)
+   ![Без имени-1](https://github.com/KatyaProkhorchuk/SBT_DB_2023/assets/77965300/9c6c2876-54e5-428f-a85e-bd6aa1bd9ff1)
 
 
    ![Без имени](https://github.com/KatyaProkhorchuk/SBT_DB_2023/assets/77965300/7ed6a3d5-4431-4599-9a05-f71181fa6bbf)
