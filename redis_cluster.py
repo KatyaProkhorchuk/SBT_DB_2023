@@ -21,4 +21,3 @@ redis_cluster = RedisCluster(
     socket_keepalive=socket_keepalive
 )
 
-print(redis_cluster.nodes.cluster_info())
