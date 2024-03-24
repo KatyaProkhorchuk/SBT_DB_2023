@@ -52,7 +52,7 @@
 
    ![изображение](https://github.com/KatyaProkhorchuk/SBT_DB_2023/assets/77965300/61df9f77-dfc8-4eb0-a0ad-cb5e3f548789)
 
-   Сравним графики
+   Сравним графики (графики строила в колабе https://colab.research.google.com/drive/1E6mkDPn7l25cQDZy3JW7goCktz0Z7LpZ?usp=sharing )
 
   ![Без имени-1](https://github.com/KatyaProkhorchuk/SBT_DB_2023/assets/77965300/9c6c2876-54e5-428f-a85e-bd6aa1bd9ff1)
 
