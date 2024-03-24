@@ -1,9 +1,9 @@
 from rediscluster import RedisCluster
 
 startup_nodes = [
-    {"host": "172.17.0.2", "port": "6379"},
-    {"host": "172.17.0.2", "port": "6380"},
-    {"host": "172.17.0.2", "port": "6381"},
+    {"host": "172.17.0.2", "port": "7000"},
+    {"host": "172.17.0.2", "port": "7001"},
+    {"host": "172.17.0.2", "port": "7002"},
 ]
 
 
