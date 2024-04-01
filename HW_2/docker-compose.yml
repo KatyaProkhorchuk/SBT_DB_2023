@@ -1,0 +1,8 @@
+version: '3'
+services:
+  redis:
+    build: .
+    working_dir: /workspace
+    command: ./run_cluster.sh 
+    ports:
+      - "7000-7002:7000-7002"
