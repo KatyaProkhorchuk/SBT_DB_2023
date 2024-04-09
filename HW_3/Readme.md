@@ -48,19 +48,19 @@ PouchDB — это реализация CouchDB на JavaScript.  Его цел�
 
 Теперь в браузере переходим на `http://127.0.0.1:5984/_utils`
 
-![Красота](image\start.png) 
+![Красота](image/start.png) 
 
 Тут вводим гениальные `login` и `password`
 
 Теперь надо бы создать базу данных
 
-![create_db](image\create_db.png)
+![create_db](image/create_db.png)
 
 Теперь есть база данных
 
-![start_work](image\start_work_with_db.png)
+![start_work](image/start_work_with_db.png)
 
 
 Добавим в БД один документ в котором должно быть поле `name` с  моей фамилией
 
-![create_doc](image\create_base.png)
+![create_doc](image/create_base.png)
